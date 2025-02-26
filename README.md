@@ -18,19 +18,6 @@ This project is a simple shopping cart system for an electronic device store, de
 - **Smartphone, Laptop, Tablet (Derived Classes)**: Each adds unique attributes and methods.
 - **Cart**: Handles adding/removing devices and checkout.
 
-## How to Run
-
-1. Clone the repository:
-   ```sh
-   git clone <repository_url>
-   cd shopping-cart-system
-   ```
-2. Run the script:
-   ```sh
-   python main.py
-   ```
-3. Use the menu to browse devices, add items, and checkout.
-
 ## Example Usage
 
 ```
